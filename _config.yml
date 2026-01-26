@@ -63,13 +63,13 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://https://drive.google.com/file/d/1Nd8BTuz42ew9wB5nkRMo3DOiA4r-xuWC/view?usp=sharing"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andrew-tran3008/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/antht3008"
     - label: "Chat w/ me"
-      icon: "fab fa-fw fa-mail"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:hot228@lehigh.edu"
 
 footer:
