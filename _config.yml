@@ -56,12 +56,9 @@ plugins:
 
 author:
   name   : "An[drew] Trần"
-  avatar : "/assets/images/IMG_2879.jpg"
+  avatar : "/assets/images/IMG_2879.jpeg"
   bio    : "Passionate about HVAC, advanced cooling techonlogy and implementing control systems"
   links:
-    - label: "Resume"
-      icon: "fas fa-fw fa-link"
-      url: "https://https://drive.google.com/file/d/1Nd8BTuz42ew9wB5nkRMo3DOiA4r-xuWC/view?usp=sharing"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/andrew-tran3008/"
@@ -71,18 +68,6 @@ author:
     - label: "Chat w/ me"
       icon: "fab fa-fw fa-envelope"
       url: "mailto:hot228@lehigh.edu"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
